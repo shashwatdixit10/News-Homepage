@@ -1,0 +1,266 @@
+.first{
+    font-family: inter;
+    font-size: 2.5rem;
+    position: absolute;
+    left: 9%;
+    top: 27px;
+}
+h1{
+    position: relative;
+    bottom: 10px;
+}
+
+.div1{
+    margin-top: 134px;
+    margin-left: 115px;
+    width: 594px;
+    height: 419px;
+}
+.image1{
+    width: 589px;
+    height: 275.281px;
+    position: relative;
+    left: 0;
+    bottom: 23px;
+}
+.p1{
+    font-size: 14px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    position: absolute;
+    padding-bottom: 0px;
+    bottom: 0px;
+    top: 478px;
+    left: 390px;
+}
+.btn {
+    
+    background: hsl(5, 85%, 63%);
+    position: relative;
+    bottom: 15%;
+    left: 46.5%;
+    background-image: -webkit-linear-gradient(top, hsl(5, 85%, 63%), hsl(5, 85%, 63%));
+    background-image: -moz-linear-gradient(top, hsl(5, 85%, 63%), hsl(5, 85%, 63%));
+    background-image: -ms-linear-gradient(top, hsl(5, 85%, 63%), hsl(5, 85%, 63%));
+    background-image: -o-linear-gradient(top, hsl(5, 85%, 63%), hsl(5, 85%, 63%));
+    background-image: linear-gradient(to bottom, hsl(5, 85%, 63%), hsl(5, 85%, 63%));
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0px;
+    font-family: Courier New;
+    color: #ffffff;
+    font-size: 14px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    letter-spacing: 3px;
+    border-bottom-width: 0px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+  }
+  
+  .btn:hover {
+    background: #d62d5d;
+    background-image: -webkit-linear-gradient(top, #d62d5d, #d62d5d);
+    background-image: -moz-linear-gradient(top, #d62d5d, #d62d5d);
+    background-image: -ms-linear-gradient(top, #d62d5d, #d62d5d);
+    background-image: -o-linear-gradient(top, #d62d5d, #d62d5d);
+    background-image: linear-gradient(to bottom, #d62d5d, #d62d5d);
+    text-decoration: none;
+  }
+  .future{
+    color: hsl(240, 100%, 5%);
+    margin-bottom: 14px;
+  }
+
+  .div2{
+    background-color: hsl(240, 100%, 5%);
+    position: relative;
+    width: 308px;
+    height: 433px;
+    bottom: 443px;
+    left: 859px;
+}
+h2{
+    color: hsl(35, 77%, 62%);
+    font-family: inter;
+    position: relative;
+    left: 32px;
+    top: 37px;
+}
+.hydrogen{
+    position: relative;
+    color: #ffffff;
+    top: 33px;
+    left: 33px;
+    font-size: 18px;
+    font-family: inter;
+}
+.AI{
+    position: relative;
+    color: #ffffff;
+    font-family: inter;
+    top: 61px;
+    font-size: 18px;
+    left: 32px;
+}
+
+.VC{
+    position: relative;
+    color: #ffffff;
+    font-size: 18px;
+    font-family: inter;
+    top: 68px;
+    left: 32px;
+}
+
+.hydrogen1{
+    position: relative;
+    color: #ffffff;
+    font-size: 14px;
+    top: 30px;
+    left: 33px;
+    
+}
+.effects{
+    position: relative;
+    color: #ffffff;
+    font-size: 14px;
+    top: 59px;
+    left: 35px;
+}
+
+.funding{
+    position: relative;
+    color: #ffffff;
+    font-size: 14px;
+    left: 32px;
+    top: 68px;
+
+}
+.line1{
+    position: relative;
+    width: 74%;
+    text-align: left;
+    margin-left: 0;
+    top: 50px;
+    left: 39px;
+}
+
+.line2{
+    position: relative;
+    width: 74%;
+    text-align: left;
+    margin-left: 0;
+    top: 66px;
+    left: 39px;
+}
+.navbar{
+    position: relative;
+    top: 20px;
+}
+.div3{
+    width: 1150px;
+    height: 254px;
+    position: relative;
+    bottom: 429px;
+    left: 98px;
+}
+main{
+    height: 650px;
+}
+.retro{
+    width: 133px;
+    margin-left: 17px;
+    margin-top: 24px;
+    text-align: right;
+}
+.one{
+    margin-bottom: 1px;
+    position: relative;
+    margin-left: 171px;
+    bottom: 170px;
+    font-size: 27px;
+    font-weight: lighter;
+}
+.reviving{
+    margin-bottom: 4px;
+    position: relative;
+    bottom: 166px;
+    left: 171px;
+    font-weight: bold;
+}
+.old{
+    position: relative;
+    bottom: 162px;
+    left: 171px;
+    margin-bottom: 0px;
+    font-size: 14px;
+}
+.laptop{
+    width: 133px;
+    position: relative;
+    /* vertical-align: bottom; */
+    display: block;
+    bottom: 279px;
+    left: 377px;
+    margin-bottom: auto;
+}
+.two{
+    position: relative;
+    bottom: 446px;
+    left: 535px;
+    font-size: 27px;
+    font-weight: lighter;
+}
+.top{
+    position: relative;
+    bottom: 456px;
+    left: 534px;
+    font-weight: bold;
+}
+.picks{
+    position: relative;
+    bottom: 459px;
+    left: 535px;
+}
+
+.gaming{
+    width: 133px;
+    position: relative;
+    left: 742px;
+    bottom: 601px;
+    display: block;
+}
+.three{
+    position: relative;
+    font-size: 27px;
+    font-weight: lighter;
+    bottom: 763px;
+    left: 900px;
+}
+.growth{
+position: relative;
+font-weight: bold;
+bottom: 776px;
+    left: 902px;
+}
+.sparked{
+   position: relative;
+   bottom: 776px;
+    left: 904px;
+}
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+.copyright{
+    display: block;
+    position: relative;
+    bottom: 700px;
+    left: 451px;
+    font-weight: bold;
+}
